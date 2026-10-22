@@ -1,2 +1,2 @@
 # Event Registration App
-Description: A college event management system.
+Description: Allows students to register for college events.
