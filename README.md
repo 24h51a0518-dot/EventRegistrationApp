@@ -1,2 +1,3 @@
 # Event Registration App
-Description: Allows students to register for college events.
+Description: Students can register for college events.
+Feature: Student Registration
